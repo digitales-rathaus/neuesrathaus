@@ -1,78 +1,78 @@
 <html>
-    <head>
-        <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
-        <link href="https://unpkg.com/nes.css@2.3.0/css/nes.min.css" rel="stylesheet" />
-        <style>
-            .useful-width{
-                /* center the html elements */
-                max-width: 800px;
-                margin-left: auto;
-                margin-right: auto;
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+    <link href="https://unpkg.com/nes.css@2.3.0/css/nes.min.css" rel="stylesheet" />
+    <style>
+        .useful-width {
+            /* center the html elements */
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+    <script>
+        window.onload = function () {
+            const host = window.location.host;
+            let path = window.location.pathname;
+            if (path.endsWith('index.html')) {
+                path = path.substr(path, path.length - 'index.html'.length);
             }
-        </style>
-        <script>
-            window.onload = function() {
-                const host = window.location.host;
-                let path = window.location.pathname;
-                if (path.endsWith('index.html')) {
-                    path = path.substr(path, path.length - 'index.html'.length);
-                }
-                const instanceId = Math.random().toString(36).substring(2, 15);
-                const groundFloor = `https://play.workadventu.re/_/${instanceId}/${host}${path}Erdgeschoss.json`;
-                document.getElementById('groundFloorLink').href = groundFloor;
-                document.getElementById('groundFloorLink2').href = groundFloor;
-                document.getElementById('groundFloorLink').innerText = groundFloor;
+            const instanceId = Math.random().toString(36).substring(2, 15);
+            const groundFloor = `https://play.workadventu.re/_/${instanceId}/${host}${path}Erdgeschoss.json`;
+            document.getElementById('groundFloorLink').href = groundFloor;
+            document.getElementById('groundFloorLink2').href = groundFloor;
+            document.getElementById('groundFloorLink').innerText = groundFloor;
 
-                const firstFloor = `https://play.workadventu.re/_/${instanceId}/${host}${path}1OG.json`;
-                document.getElementById('firstFloorLink').href = firstFloor;
-                document.getElementById('firstFloorLink2').href = firstFloor;
-                document.getElementById('firstFloorLink').innerText = firstFloor;
+            const firstFloor = `https://play.workadventu.re/_/${instanceId}/${host}${path}1OG.json`;
+            document.getElementById('firstFloorLink').href = firstFloor;
+            document.getElementById('firstFloorLink2').href = firstFloor;
+            document.getElementById('firstFloorLink').innerText = firstFloor;
 
-                const secondFloor = `https://play.workadventu.re/_/${instanceId}/${host}${path}2OG.json`;
-                document.getElementById('secondFloorLink').href = secondFloor;
-                document.getElementById('secondFloorLink2').href = secondFloor;
-                document.getElementById('secondFloorLink').innerText = secondFloor;
+            const secondFloor = `https://play.workadventu.re/_/${instanceId}/${host}${path}2OG.json`;
+            document.getElementById('secondFloorLink').href = secondFloor;
+            document.getElementById('secondFloorLink2').href = secondFloor;
+            document.getElementById('secondFloorLink').innerText = secondFloor;
 
-                const thirdFloor = `https://play.workadventu.re/_/${instanceId}/${host}${path}3OG.json`;
-                document.getElementById('thirdFloorLink').href = thirdFloor;
-                document.getElementById('thirdFloorLink2').href = thirdFloor;
-                document.getElementById('thirdFloorLink').innerText = thirdFloor;
-            };
-        </script>
-    </head>
-    <body>
-        <div class="useful-width">
-            <div style="text-align: center; margin-top: 3rem">
-                <img src="https://workadventu.re/img/logo.png" alt=""/>
-            </div>
-            <div class="nes-container with-title is-centered" style="margin-top: 3rem">
-                <p class="title">WorkAdventure map</p>
-                <p>Diese Website enthält eine Karte für <a href="https://workadventu.re">Workadventu.re</a>.</p>
-            </div>
+            const thirdFloor = `https://play.workadventu.re/_/${instanceId}/${host}${path}3OG.json`;
+            document.getElementById('thirdFloorLink').href = thirdFloor;
+            document.getElementById('thirdFloorLink2').href = thirdFloor;
+            document.getElementById('thirdFloorLink').innerText = thirdFloor;
+        };
+    </script>
+</head>
+<body>
+<div class="useful-width">
+    <div style="text-align: center; margin-top: 3rem">
+        <img src="https://workadventu.re/img/logo.png" alt="" />
+    </div>
+    <div class="nes-container with-title is-centered" style="margin-top: 3rem">
+        <p class="title">WorkAdventure map</p>
+        <p>Diese Website enthält eine Karte für <a href="https://workadventu.re">Workadventu.re</a>.</p>
+    </div>
 
-            <div class="nes-container with-title is-centered" style="margin-top: 1rem">
-                <p class="title">Teste das Erdgeschoss</p>
-                <p>Das Erdgeschoss kann mit <a id="groundFloorLink" href=""></a> angeschaut werden.</p>
-                <p><a id="groundFloorLink2" href="" class="nes-btn is-primary">Teste das Erdgeschoss</a></p>
-            </div>
+    <div class="nes-container with-title is-centered" style="margin-top: 1rem">
+        <p class="title">Teste das Erdgeschoss</p>
+        <p>Das Erdgeschoss kann mit <a id="groundFloorLink" href=""></a> angeschaut werden.</p>
+        <p><a id="groundFloorLink2" href="" class="nes-btn is-primary">Teste das Erdgeschoss</a></p>
+    </div>
 
-            <div class="nes-container with-title is-centered" style="margin-top: 1rem">
-                <p class="title">Teste die 1. Etage</p>
-                <p>Die 1. Etage kann mit <a id="firstFloorLink" href=""></a> angeschaut werden.</p>
-                <p><a id="firstFloorLink2" href="" class="nes-btn is-primary">Teste OG 1</a></p>
-            </div>
+    <div class="nes-container with-title is-centered" style="margin-top: 1rem">
+        <p class="title">Teste die 1. Etage</p>
+        <p>Die 1. Etage kann mit <a id="firstFloorLink" href=""></a> angeschaut werden.</p>
+        <p><a id="firstFloorLink2" href="" class="nes-btn is-primary">Teste OG 1</a></p>
+    </div>
 
-            <div class="nes-container with-title is-centered" style="margin-top: 1rem">
-                <p class="title">Teste die 2. Etage</p>
-                <p>Die 2. Etage kann mit <a id="secondFloorLink" href=""></a> angeschaut werden.</p>
-                <p><a id="secondFloorLink2" href="" class="nes-btn is-primary">Teste OG 2</a></p>
-            </div>
-        </div>
+    <div class="nes-container with-title is-centered" style="margin-top: 1rem">
+        <p class="title">Teste die 2. Etage</p>
+        <p>Die 2. Etage kann mit <a id="secondFloorLink" href=""></a> angeschaut werden.</p>
+        <p><a id="secondFloorLink2" href="" class="nes-btn is-primary">Teste OG 2</a></p>
+    </div>
 
-        <div class="nes-container with-title is-centered" style="margin-top: 1rem">
-            <p class="title">Teste die 3. Etage</p>
-            <p>Die 3. Etage kann mit <a id="thirdFloorLink" href=""></a> angeschaut werden.</p>
-            <p><a id="thirdFloorLink2" href="" class="nes-btn is-primary">Teste OG 3</a></p>
-        </div>
-    </body>
+    <div class="nes-container with-title is-centered" style="margin-top: 1rem">
+        <p class="title">Teste die 3. Etage</p>
+        <p>Die 3. Etage kann mit <a id="thirdFloorLink" href=""></a> angeschaut werden.</p>
+        <p><a id="thirdFloorLink2" href="" class="nes-btn is-primary">Teste OG 3</a></p>
+    </div>
+</div>
+</body>
 </html>
