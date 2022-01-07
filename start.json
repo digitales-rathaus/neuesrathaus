@@ -390,6 +390,19 @@
          "tilecount":256,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":24,
+         "firstgid":5919,
+         "image":"tilesets\/boden.png",
+         "imageheight":1536,
+         "imagewidth":768,
+         "margin":0,
+         "name":"boden",
+         "spacing":0,
+         "tilecount":1152,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
