@@ -82,6 +82,114 @@
         }, 
         {
          "draworder":"topdown",
+         "id":9,
+         "name":"Text",
+         "objects":[
+                {
+                 "height":29.6667,
+                 "id":1,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Segoe Print",
+                     "text":"1. OG",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":121.333,
+                 "x":74.2392649667406,
+                 "y":2.64362330301086
+                }, 
+                {
+                 "height":29.6667,
+                 "id":2,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Segoe Print",
+                     "text":"Sitzungssaal",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":121.333,
+                 "x":184.906264966741,
+                 "y":1.31027030301084
+                }, 
+                {
+                 "height":29.6667,
+                 "id":3,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Segoe Print",
+                     "text":"OBM B\u00fcro",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":121.333,
+                 "x":447.906264966741,
+                 "y":3.97693330301084
+                }, 
+                {
+                 "height":29.6667,
+                 "id":4,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Segoe Print",
+                     "text":"Ratsplenarsaal",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":121.333,
+                 "x":304.573264966741,
+                 "y":1.97693630301083
+                }, 
+                {
+                 "height":29.6667,
+                 "id":5,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Segoe Print",
+                     "text":"Festsaal",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":121.333,
+                 "x":579.239264966741,
+                 "y":3.31027330301083
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "id":10,
+         "image":"..\/Tiles\/Modern_Interiors\/3_Animated_objects\/32x32\/gif\/animated_chimney_red_32x32.gif",
+         "name":"Bild",
+         "offsetx":128.16431322208,
+         "offsety":58.2565060100362,
+         "opacity":1,
+         "type":"imagelayer",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
          "objects":[],
@@ -91,8 +199,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":9,
- "nextobjectid":1,
+ "nextlayerid":11,
+ "nextobjectid":6,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
