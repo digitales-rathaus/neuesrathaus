@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"sitzungssaal.json"
+                 "value":"Sitzungssaal.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -114,7 +114,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"buero_elisabeth.json"
+                 "value":"Buero_Elisabeth.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -132,7 +132,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"buero_paul.json"
+                 "value":"Buero_Paul.json"
                 }],
          "type":"tilelayer",
          "visible":true,
