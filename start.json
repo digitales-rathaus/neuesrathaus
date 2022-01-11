@@ -58,7 +58,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exiturl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"..\/ratsplenarsaal.json"
                 }],
@@ -76,7 +76,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exiturl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"..\/obm_buero.json"
                 }],
@@ -94,7 +94,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exiturl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"\/festsaal.json"
                 }],
@@ -112,7 +112,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exiturl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"buero_elisabeth.json"
                 }],
