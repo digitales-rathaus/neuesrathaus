@@ -3,9 +3,9 @@
  "infinite":false,
  "layers":[
         {
-         "data":[322, 0, 0, 0, 0, 0, 0, 0, 0, 0, 322, 0, 0, 0, 0, 0, 0, 0, 0, 0, 322, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 323, 323, 0, 0, 0, 0],
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1026, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":18,
-         "id":6,
+         "id":2,
          "name":"start",
          "opacity":1,
          "properties":[
@@ -21,10 +21,28 @@
          "y":0
         }, 
         {
-         "data":[322, 322, 322, 322, 322, 322, 322, 322, 322, 322, 322, 322, 322, 322, 322, 322, 322, 322, 0, 322, 322, 322, 322, 322, 322, 322, 322, 322, 0, 322, 0, 322, 322, 322, 322, 322, 322, 322, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 322, 0, 0, 0, 322, 322, 322, 322, 0, 0, 322, 0, 0, 0, 322, 322, 322, 322, 0, 0, 322, 0, 0, 0, 0, 0, 0, 0, 0, 0, 322, 0, 0, 0, 0, 0, 0, 0, 0, 0, 322, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 322, 322, 0, 0, 0, 0, 0, 0, 0, 0, 322, 322, 0, 0, 0, 0, 0, 0, 0, 0, 322, 322, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1033, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":18,
-         "id":7,
-         "name":"keinDurchgang",
+         "id":11,
+         "name":"ausgang",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"start.json"
+                }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 1025, 0, 0, 0, 0, 0, 0, 0, 0, 1025, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1025, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1025, 0, 0, 0, 1025, 1025, 1025, 1025, 0, 0, 1025, 0, 0, 0, 1025, 1025, 1025, 1025, 0, 0, 1025, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1025, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1025, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1025, 1025, 0, 0, 0, 0, 0, 0, 0, 0, 1025, 1025, 0, 0, 0, 0, 0, 1025, 0, 0, 1025, 1025, 0, 0, 0, 0, 0, 0, 0, 0, 1025, 1025, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":18,
+         "id":8,
+         "name":"blockiert",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -33,10 +51,58 @@
          "y":0
         }, 
         {
-         "data":[2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713, 2713],
+         "data":[15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791, 15791],
          "height":18,
          "id":4,
-         "name":"boden",
+         "name":"Boden",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[3221232091, 6618, 6618, 6618, 6618, 6618, 6618, 6618, 6618, 6619, 3221232091, 6618, 6618, 6618, 6618, 6618, 6618, 6618, 6618, 6619, 3221232091, 6618, 6618, 6618, 6618, 6618, 6618, 6618, 6618, 6619, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":18,
+         "id":5,
+         "name":"W\u00e4nde",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15617, 15617, 15617, 15617, 15617, 15617, 15617, 15618, 0, 0, 15625, 15625, 15625, 15625, 15625, 15625, 15625, 15626, 0, 0, 15625, 15626, 15625, 15626, 15625, 15626, 15625, 15626, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15960, 0, 0, 0, 0, 15992, 0, 0, 0, 15557, 15557, 15557, 15557, 0, 1610628730, 15992, 0, 0, 0, 15565, 15565, 15565, 15565, 0, 1610628730, 15992, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16003, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10304, 10304, 0, 0, 0, 0, 0, 0, 0, 10352, 15614, 15616, 10353, 0, 0, 0, 0, 8984, 0, 0, 15622, 15624, 0, 0, 0, 0, 0, 15620, 0, 10352, 15630, 15632, 10353, 0, 0, 0, 0, 9032, 0, 0, 10305, 10305, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":18,
+         "id":6,
+         "name":"M\u00f6bel",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15499, 0, 26380, 3221241561, 0, 0, 0, 0, 0, 0, 15507, 0, 0, 0, 0, 0, 2684370629, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":18,
+         "id":7,
+         "name":"Deko01",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 27256, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25221, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25253, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25285, 24183, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27297, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27307, 0, 0, 0, 1610628565, 0, 15982, 2684370630, 0, 0, 27308, 0, 0, 0, 0, 15830, 0, 14514, 0, 0, 12107, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12155, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12203, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":18,
+         "id":12,
+         "name":"Deko02",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -47,32 +113,8 @@
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":18,
-         "id":48,
-         "name":"boden2",
-         "opacity":1,
-         "type":"tilelayer",
-         "visible":true,
-         "width":10,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[3221235879, 10406, 10406, 10406, 10406, 10406, 10406, 10406, 10406, 10407, 3221235879, 10406, 10406, 10406, 10406, 10406, 10406, 10406, 10406, 10407, 3221235879, 10406, 10406, 10406, 10406, 10406, 10406, 10406, 10406, 10407, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":18,
-         "id":9,
-         "name":"waende",
-         "opacity":1,
-         "type":"tilelayer",
-         "visible":true,
-         "width":10,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2539, 2539, 2539, 2539, 2539, 2539, 2539, 2540, 0, 0, 2547, 2547, 2547, 2547, 2547, 2547, 2547, 2548, 0, 0, 2547, 2548, 2547, 2548, 2547, 2548, 2547, 2548, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 224, 0, 0, 0, 0, 256, 0, 0, 0, 2479, 2479, 2479, 2479, 0, 1610612994, 256, 0, 0, 0, 2487, 2487, 2487, 2487, 0, 1610612994, 256, 0, 0, 0, 0, 0, 0, 0, 0, 0, 267, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14092, 14092, 0, 0, 0, 0, 0, 0, 0, 14140, 2536, 2538, 14141, 0, 0, 0, 0, 12772, 0, 0, 2544, 2546, 0, 0, 0, 0, 0, 2542, 0, 14140, 2552, 2554, 14141, 0, 0, 0, 0, 12820, 0, 0, 14093, 14093, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":18,
-         "id":1,
-         "name":"moebel",
+         "id":13,
+         "name":"Deko03",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -82,8 +124,8 @@
         }, 
         {
          "draworder":"topdown",
-         "id":47,
-         "name":"Keine Raster",
+         "id":9,
+         "name":"Text",
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
@@ -92,44 +134,8 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3258, 0, 0, 3221228730, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":18,
-         "id":44,
-         "name":"fenster und tueren",
-         "opacity":1,
-         "type":"tilelayer",
-         "visible":true,
-         "width":10,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2421, 0, 4807, 0, 0, 0, 0, 0, 0, 0, 2429, 0, 0, 0, 0, 0, 2684357798, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":18,
-         "id":33,
-         "name":"dekoration",
-         "opacity":1,
-         "type":"tilelayer",
-         "visible":true,
-         "width":10,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 128, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3648, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3680, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3712, 3226, 0, 0, 0, 0, 0, 0, 0, 0, 0, 169, 0, 0, 0, 0, 0, 0, 0, 0, 0, 179, 0, 0, 0, 1610615487, 0, 246, 2684357799, 0, 0, 180, 0, 0, 0, 0, 2752, 0, 18302, 0, 0, 15895, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15943, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15991, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":18,
-         "id":46,
-         "name":"Dekoration 2",
-         "opacity":1,
-         "type":"tilelayer",
-         "visible":true,
-         "width":10,
-         "x":0,
-         "y":0
-        }, 
-        {
          "draworder":"topdown",
-         "id":2,
+         "id":3,
          "name":"floorLayer",
          "objects":[],
          "opacity":1,
@@ -137,121 +143,153 @@
          "visible":true,
          "x":0,
          "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":45,
-         "name":"beschreibung",
-         "objects":[],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":18,
-         "id":39,
-         "name":"ueberSpieler1",
-         "opacity":1,
-         "type":"tilelayer",
-         "visible":true,
-         "width":10,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":18,
-         "id":27,
-         "name":"ueberSpieler2",
-         "opacity":1,
-         "type":"tilelayer",
-         "visible":true,
-         "width":10,
-         "x":0,
-         "y":0
         }],
- "nextlayerid":49,
- "nextobjectid":18,
+ "nextlayerid":14,
+ "nextobjectid":6,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"mapCopyright",
-         "type":"string",
-         "value":"Credits: Valdo Romao https:\/\/www.linkedin.com\/in\/valdo-romao\/ \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
-        }, 
-        {
-         "name":"mapDescription",
-         "type":"string",
-         "value":"A perfect virtual office to get started with WorkAdventure!"
-        }, 
-        {
-         "name":"mapImage",
-         "type":"string",
-         "value":"map.png"
-        }, 
-        {
-         "name":"mapLink",
-         "type":"string",
-         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/map.json"
-        }, 
-        {
-         "name":"mapName",
-         "type":"string",
-         "value":"Starter kit"
-        }, 
-        {
-         "name":"script",
-         "type":"string",
-         "value":"script.js"
-        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
-         "columns":10,
+         "columns":32,
          "firstgid":1,
-         "image":"src\/assets\/tileset5_export.png",
-         "imageheight":320,
-         "imagewidth":320,
+         "image":"tilesets\/base_out_atlas.png",
+         "imageheight":1024,
+         "imagewidth":1024,
          "margin":0,
-         "name":"tileset5_export",
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"\u00a9 2021 WorkAdventure <https:\/\/workadventu.re\/> \nLicense: WORKADVENTURE SPECIFIC RESOURCES LICENSE (see LICENSE.assets file)"
-                }],
+         "name":"Burg+Terrain",
          "spacing":0,
-         "tilecount":100,
+         "tilecount":1024,
          "tileheight":32,
          "tilewidth":32
         }, 
         {
-         "columns":10,
-         "firstgid":101,
-         "image":"src\/assets\/tileset6_export.png",
-         "imageheight":320,
-         "imagewidth":320,
+         "columns":6,
+         "firstgid":1025,
+         "image":"tilesets\/Special_Zones.png",
+         "imageheight":64,
+         "imagewidth":192,
          "margin":0,
-         "name":"tileset6_export",
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"\u00a9 2021 WorkAdventure <https:\/\/workadventu.re\/> \nLicense: WORKADVENTURE SPECIFIC RESOURCES LICENSE (see LICENSE.assets file)"
-                }],
+         "name":"Spezialzonen",
          "spacing":0,
-         "tilecount":100,
+         "tilecount":12,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"startLayer",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
+         "tilewidth":32
+        }, 
+        {
+         "columns":36,
+         "firstgid":1037,
+         "image":"tilesets\/01_boden.png",
+         "imageheight":3181,
+         "imagewidth":1152,
+         "margin":0,
+         "name":"01_boden",
+         "spacing":0,
+         "tilecount":3564,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":48,
+         "firstgid":4601,
+         "image":"tilesets\/02_waende.png",
+         "imageheight":1987,
+         "imagewidth":1536,
+         "margin":0,
+         "name":"02_waende",
+         "spacing":0,
+         "tilecount":2976,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":24,
+         "firstgid":7577,
+         "image":"tilesets\/03_treppen.png",
+         "imageheight":1536,
+         "imagewidth":768,
+         "margin":0,
+         "name":"03_treppen",
+         "spacing":0,
+         "tilecount":1152,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":48,
+         "firstgid":8729,
+         "image":"tilesets\/04_sitzmoebel.png",
+         "imageheight":2048,
+         "imagewidth":1536,
+         "margin":0,
+         "name":"04_sitzmoebel",
+         "spacing":0,
+         "tilecount":3072,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":48,
+         "firstgid":11801,
+         "image":"tilesets\/05_moebel.png",
+         "imageheight":1024,
+         "imagewidth":1536,
+         "margin":0,
+         "name":"05_moebel",
+         "spacing":0,
+         "tilecount":1536,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":48,
+         "firstgid":13337,
+         "image":"tilesets\/06_deko.png",
+         "imageheight":1024,
+         "imagewidth":1536,
+         "margin":0,
+         "name":"06_deko",
+         "spacing":0,
+         "tilecount":1536,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":8,
+         "firstgid":14873,
+         "image":"tilesets\/fantasy.png",
+         "imageheight":4256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"fantasy",
+         "spacing":0,
+         "tilecount":1064,
          "tileheight":32,
          "tilewidth":32
         }, 
         {
          "columns":11,
-         "firstgid":201,
+         "firstgid":15937,
          "image":"src\/assets\/tileset1.png",
          "imageheight":352,
          "imagewidth":352,
@@ -269,37 +307,21 @@
          "tilewidth":32
         }, 
         {
-         "columns":6,
-         "firstgid":322,
-         "image":"src\/assets\/Special_Zones.png",
-         "imageheight":64,
-         "imagewidth":192,
+         "columns":16,
+         "firstgid":16058,
+         "image":"tilesets\/SF_Inside_B.png",
+         "imageheight":512,
+         "imagewidth":512,
          "margin":0,
-         "name":"Special_Zones",
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"\u00a9 2021 WorkAdventure <https:\/\/workadventu.re\/> \nLicense: WORKADVENTURE SPECIFIC RESOURCES LICENSE (see LICENSE.assets file)"
-                }],
+         "name":"SF_Inside_B",
          "spacing":0,
-         "tilecount":12,
+         "tilecount":256,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":0,
-                 "properties":[
-                        {
-                         "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
          "columns":5,
-         "firstgid":334,
+         "firstgid":16314,
          "image":"tilesets\/Armor.png",
          "imageheight":32,
          "imagewidth":160,
@@ -311,8 +333,21 @@
          "tilewidth":32
         }, 
         {
+         "columns":24,
+         "firstgid":16319,
+         "image":"tilesets\/baeume.png",
+         "imageheight":768,
+         "imagewidth":768,
+         "margin":0,
+         "name":"baeume",
+         "spacing":0,
+         "tilecount":576,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
          "columns":32,
-         "firstgid":339,
+         "firstgid":16895,
          "image":"tilesets\/base_out_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
@@ -324,8 +359,34 @@
          "tilewidth":32
         }, 
         {
+         "columns":24,
+         "firstgid":17919,
+         "image":"tilesets\/boden.png",
+         "imageheight":1987,
+         "imagewidth":768,
+         "margin":0,
+         "name":"boden",
+         "spacing":0,
+         "tilecount":1488,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":24,
+         "firstgid":19407,
+         "image":"tilesets\/bodentiles.png",
+         "imageheight":1987,
+         "imagewidth":768,
+         "margin":0,
+         "name":"bodentiles",
+         "spacing":0,
+         "tilecount":1488,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
          "columns":11,
-         "firstgid":1363,
+         "firstgid":20895,
          "image":"tilesets\/bskonf.png",
          "imageheight":512,
          "imagewidth":352,
@@ -338,7 +399,33 @@
         }, 
         {
          "columns":16,
-         "firstgid":1539,
+         "firstgid":21071,
+         "image":"tilesets\/bueromoebel.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"bueromoebel",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":21327,
+         "image":"tilesets\/bueromoebel02.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"bueromoebel02",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":21583,
          "image":"tilesets\/Castle2.png",
          "imageheight":512,
          "imagewidth":512,
@@ -351,7 +438,7 @@
         }, 
         {
          "columns":8,
-         "firstgid":1795,
+         "firstgid":21839,
          "image":"tilesets\/fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
@@ -364,7 +451,7 @@
         }, 
         {
          "columns":8,
-         "firstgid":2859,
+         "firstgid":22903,
          "image":"tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
@@ -377,7 +464,20 @@
         }, 
         {
          "columns":16,
-         "firstgid":2923,
+         "firstgid":22967,
+         "image":"tilesets\/inneneinrichtung.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"inneneinrichtung",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":23223,
          "image":"tilesets\/interior.png",
          "imageheight":512,
          "imagewidth":512,
@@ -389,8 +489,21 @@
          "tilewidth":32
         }, 
         {
+         "columns":9,
+         "firstgid":23479,
+         "image":"tilesets\/lpccatratdog(1).png",
+         "imageheight":256,
+         "imagewidth":288,
+         "margin":0,
+         "name":"lpccatratdog(1)",
+         "spacing":0,
+         "tilecount":72,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
          "columns":2,
-         "firstgid":3179,
+         "firstgid":23551,
          "image":"tilesets\/lpc-doors-animated-2.png",
          "imageheight":576,
          "imagewidth":64,
@@ -402,8 +515,34 @@
          "tilewidth":32
         }, 
         {
+         "columns":9,
+         "firstgid":23587,
+         "image":"tilesets\/mapUtilities.png",
+         "imageheight":34,
+         "imagewidth":306,
+         "margin":0,
+         "name":"mapUtilities",
+         "spacing":0,
+         "tilecount":9,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":24,
+         "firstgid":23596,
+         "image":"tilesets\/neuesrathaus-01.png",
+         "imageheight":768,
+         "imagewidth":768,
+         "margin":0,
+         "name":"neuesrathaus-01",
+         "spacing":0,
+         "tilecount":576,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
          "columns":3,
-         "firstgid":3215,
+         "firstgid":24172,
          "image":"tilesets\/pigeon-NESW.png",
          "imageheight":128,
          "imagewidth":96,
@@ -415,8 +554,21 @@
          "tilewidth":32
         }, 
         {
+         "columns":2,
+         "firstgid":24184,
+         "image":"tilesets\/pixil-frame-0.png",
+         "imageheight":64,
+         "imagewidth":64,
+         "margin":0,
+         "name":"pixil-frame-0",
+         "spacing":0,
+         "tilecount":4,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
          "columns":16,
-         "firstgid":3227,
+         "firstgid":24188,
          "image":"tilesets\/SF_Inside_B.png",
          "imageheight":512,
          "imagewidth":512,
@@ -428,8 +580,34 @@
          "tilewidth":32
         }, 
         {
+         "columns":8,
+         "firstgid":24444,
+         "image":"tilesets\/sitzgelegenheiten.png",
+         "imageheight":352,
+         "imagewidth":256,
+         "margin":0,
+         "name":"sitzgelegenheiten",
+         "spacing":0,
+         "tilecount":88,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":24532,
+         "image":"tilesets\/sitzmoebel.png",
+         "imageheight":1024,
+         "imagewidth":512,
+         "margin":0,
+         "name":"sitzmoebel",
+         "spacing":0,
+         "tilecount":512,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
          "columns":7,
-         "firstgid":3483,
+         "firstgid":25044,
          "image":"tilesets\/snail.png",
          "imageheight":128,
          "imagewidth":224,
@@ -441,8 +619,21 @@
          "tilewidth":32
         }, 
         {
+         "columns":6,
+         "firstgid":25072,
+         "image":"tilesets\/Special_Zones.png",
+         "imageheight":64,
+         "imagewidth":192,
+         "margin":0,
+         "name":"Special_Zones",
+         "spacing":0,
+         "tilecount":12,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
          "columns":32,
-         "firstgid":3511,
+         "firstgid":25084,
          "image":"tilesets\/terrain_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
@@ -455,7 +646,7 @@
         }, 
         {
          "columns":17,
-         "firstgid":4535,
+         "firstgid":26108,
          "image":"tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":544,
          "imagewidth":544,
@@ -467,136 +658,47 @@
          "tilewidth":32
         }, 
         {
-         "columns":0,
-         "firstgid":4824,
+         "columns":16,
+         "firstgid":26397,
+         "image":"tilesets\/tilesets_interior_para_rmvx_ace___editados_by_milkian_daiujx6.png",
+         "imageheight":512,
+         "imagewidth":512,
          "margin":0,
-         "name":"01_Grundriss",
+         "name":"tilesets_interior_para_rmvx_ace___editados_by_milkian_daiujx6",
          "spacing":0,
-         "tilecount":0,
-         "tileheight":1,
-         "tilewidth":1
-        }, 
-        {
-         "columns":0,
-         "firstgid":4824,
-         "margin":0,
-         "name":"Grundriss",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":1,
-         "tilewidth":1
-        }, 
-        {
-         "columns":0,
-         "firstgid":4824,
-         "grid":
-            {
-             "height":1,
-             "orientation":"orthogonal",
-             "width":1
-            },
-         "margin":0,
-         "name":"Grundriss OG2",
-         "spacing":0,
-         "tilecount":1,
-         "tileheight":374,
-         "tiles":[
-                {
-                 "id":0,
-                 "image":"bilder\/Grundriss OG2.jpg",
-                 "imageheight":374,
-                 "imagewidth":532
-                }],
-         "tilewidth":532
-        }, 
-        {
-         "columns":36,
-         "firstgid":4825,
-         "image":"tilesets\/01_boden.png",
-         "imageheight":3181,
-         "imagewidth":1152,
-         "margin":0,
-         "name":"01_boden",
-         "spacing":0,
-         "tilecount":3564,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":48,
-         "firstgid":8389,
-         "image":"tilesets\/02_waende.png",
-         "imageheight":1987,
-         "imagewidth":1536,
-         "margin":0,
-         "name":"02_waende",
-         "spacing":0,
-         "tilecount":2976,
+         "tilecount":256,
          "tileheight":32,
          "tilewidth":32
         }, 
         {
          "columns":24,
-         "firstgid":11365,
-         "image":"tilesets\/03_treppen.png",
-         "imageheight":1536,
+         "firstgid":26653,
+         "image":"tilesets\/weihnachtsdeko.png",
+         "imageheight":768,
          "imagewidth":768,
          "margin":0,
-         "name":"03_treppen",
+         "name":"weihnachtsdeko",
          "spacing":0,
-         "tilecount":1152,
+         "tilecount":576,
          "tileheight":32,
          "tilewidth":32
         }, 
         {
-         "columns":48,
-         "firstgid":12517,
-         "image":"tilesets\/04_sitzmoebel.png",
-         "imageheight":2048,
-         "imagewidth":1536,
+         "columns":10,
+         "firstgid":27229,
+         "image":"src\/assets\/tileset6_export.png",
+         "imageheight":320,
+         "imagewidth":320,
          "margin":0,
-         "name":"04_sitzmoebel",
+         "name":"tileset6_export",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"\u00a9 2021 WorkAdventure <https:\/\/workadventu.re\/> \nLicense: WORKADVENTURE SPECIFIC RESOURCES LICENSE (see LICENSE.assets file)"
+                }],
          "spacing":0,
-         "tilecount":3072,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":48,
-         "firstgid":15589,
-         "image":"tilesets\/05_moebel.png",
-         "imageheight":1024,
-         "imagewidth":1536,
-         "margin":0,
-         "name":"05_moebel",
-         "spacing":0,
-         "tilecount":1536,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":48,
-         "firstgid":17125,
-         "image":"tilesets\/06_deko.png",
-         "imageheight":1024,
-         "imagewidth":1536,
-         "margin":0,
-         "name":"06_deko",
-         "spacing":0,
-         "tilecount":1536,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":2,
-         "firstgid":18661,
-         "image":"tilesets\/pixil-frame-0.png",
-         "imageheight":64,
-         "imagewidth":64,
-         "margin":0,
-         "name":"pixil-frame-0",
-         "spacing":0,
-         "tilecount":4,
+         "tilecount":100,
          "tileheight":32,
          "tilewidth":32
         }],
