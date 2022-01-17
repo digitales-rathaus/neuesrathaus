@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"ratsplenarsaal.json"
+                 "value":"Ratsplenarsaal.json"
                 }],
          "type":"tilelayer",
          "visible":true,
