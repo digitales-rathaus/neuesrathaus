@@ -333,7 +333,7 @@
         {
          "columns":9,
          "firstgid":5730,
-         "image":"..\/neuesrathaus - Kopie\/tilesets\/lpccatratdog(1).png",
+         "image":"tilesets\/lpccatratdog(1).png",
          "imageheight":256,
          "imagewidth":288,
          "margin":0,
@@ -356,7 +356,7 @@
         {
          "columns":16,
          "firstgid":5802,
-         "image":"..\/neuesrathaus - Kopie\/tilesets\/tilesets_interior_para_rmvx_ace___editados_by_milkian_daiujx6.png",
+         "image":"tilesets\/tilesets_interior_para_rmvx_ace___editados_by_milkian_daiujx6.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -369,7 +369,7 @@
         {
          "columns":8,
          "firstgid":6058,
-         "image":"..\/neuesrathaus - Kopie\/tilesets\/fantasy.png",
+         "image":"tilesets\/fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -395,7 +395,7 @@
         {
          "columns":24,
          "firstgid":7122,
-         "image":"..\/neuesrathaus - Kopie\/tilesets\/weihnachtsdeko.png",
+         "image":"tilesets\/weihnachtsdeko.png",
          "imageheight":768,
          "imagewidth":768,
          "margin":0,
