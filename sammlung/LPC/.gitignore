@@ -1,0 +1,13 @@
+# Remove all Aseprite files
+*.aseprite
+
+# Ignore folders for Work-In-Progress categories for the moment
+*_Packs/
+*Animals/
+*Characters/
+*FX/
+*Nature/
+*UI/
+
+# Ignore my template folders
+*Credits Template.txt
