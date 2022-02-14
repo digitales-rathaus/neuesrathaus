@@ -27,7 +27,7 @@
          "name":"blockiert",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -42,10 +42,10 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"2OG.json"
+                 "value":"2OG.json#start"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -63,7 +63,7 @@
                  "value":"vorplatz.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0

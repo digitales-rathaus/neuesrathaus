@@ -75,7 +75,7 @@
                  "value":"start.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":80,
          "x":0,
          "y":0
