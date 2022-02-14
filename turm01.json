@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"turm02.json"
+                 "value":"turm2OG.json"
                 }],
          "type":"tilelayer",
          "visible":true,
