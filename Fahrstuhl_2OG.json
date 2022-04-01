@@ -1,0 +1,500 @@
+{ "compressionlevel":-1,
+ "height":8,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 15641, 15643, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 1026, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0],
+         "height":8,
+         "id":2,
+         "name":"start",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":6,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 1033, 1033, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0],
+         "height":8,
+         "id":11,
+         "name":"ausgang_2OG",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"2OG.json#Fahrstuhl_2OG"
+                }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":6,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 1033, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0],
+         "height":8,
+         "id":13,
+         "name":"runter_start",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"Fahrstuhl_Start.json"
+                }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":6,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 1033, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0],
+         "height":8,
+         "id":14,
+         "name":"hoch_turm_oben",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"turm_oben.json"
+                }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":6,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[1025, 1025, 1025, 1025, 1025, 1025,
+            1025, 1025, 1025, 1025, 1025, 1025,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0],
+         "height":8,
+         "id":8,
+         "name":"blockiert",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":6,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            2326, 2326, 2326, 2326, 2326, 2326,
+            2326, 2326, 2326, 2326, 2326, 2326,
+            2326, 2326, 2326, 2326, 2326, 2326,
+            2326, 2326, 2326, 2326, 2326, 2326,
+            2326, 2326, 2326, 2326, 2326, 2326,
+            2326, 2326, 2326, 2326, 2326, 2326],
+         "height":8,
+         "id":4,
+         "name":"Boden",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":6,
+         "x":0,
+         "y":0
+        },
+    
+        {
+         "data":[4806, 4806, 4806, 4806, 4806, 4806,
+            4810, 4810, 4810, 4810, 4810, 4810,
+            4854, 4854, 4854, 4854, 4854, 4854,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0],
+         "height":8,
+         "id":5,
+         "name":"W\u00e4nde",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":6,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            14368, 0, 0, 0, 0, 14416,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0],
+         "height":8,
+         "id":6,
+         "name":"M\u00f6bel",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":6,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0,
+            0, 0, 14366, 14367, 0, 0,
+            0, 18005, 14414, 14415, 18006, 0,
+            0, 0, 13553, 13554, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0],
+         "height":8,
+         "id":7,
+         "name":"Deko",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":6,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":12,
+         "name":"Text",
+         "objects":[
+                {
+                 "height":19,
+                 "id":6,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "halign":"center",
+                     "text":"2. OG",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":72,
+                 "x":61.6666666666667,
+                 "y":20.1666666666667
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":3,
+         "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":15,
+ "nextobjectid":7,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.8.4",
+ "tileheight":32,
+ "tilesets":[
+        {
+         "columns":32,
+         "firstgid":1,
+         "image":"tilesets\/base_out_atlas.png",
+         "imageheight":1024,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"Burg+Terrain",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":6,
+         "firstgid":1025,
+         "image":"tilesets\/Special_Zones.png",
+         "imageheight":64,
+         "imagewidth":192,
+         "margin":0,
+         "name":"Spezialzonen",
+         "spacing":0,
+         "tilecount":12,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"startLayer",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
+         "tilewidth":32
+        }, 
+        {
+         "columns":36,
+         "firstgid":1037,
+         "image":"tilesets\/01_boden.png",
+         "imageheight":3181,
+         "imagewidth":1152,
+         "margin":0,
+         "name":"01_boden",
+         "spacing":0,
+         "tilecount":3564,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":48,
+         "firstgid":4601,
+         "image":"tilesets\/02_waende.png",
+         "imageheight":1987,
+         "imagewidth":1536,
+         "margin":0,
+         "name":"02_waende",
+         "spacing":0,
+         "tilecount":2976,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":24,
+         "firstgid":7577,
+         "image":"tilesets\/03_treppen.png",
+         "imageheight":1536,
+         "imagewidth":768,
+         "margin":0,
+         "name":"03_treppen",
+         "spacing":0,
+         "tilecount":1152,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":48,
+         "firstgid":8729,
+         "image":"tilesets\/04_sitzmoebel.png",
+         "imageheight":2048,
+         "imagewidth":1536,
+         "margin":0,
+         "name":"04_sitzmoebel",
+         "spacing":0,
+         "tilecount":3072,
+         "tileheight":32,
+         "tilewidth":32
+        },
+    
+        {
+         "columns":48,
+         "firstgid":11801,
+         "image":"tilesets\/05_moebel.png",
+         "imageheight":1024,
+         "imagewidth":1536,
+         "margin":0,
+         "name":"05_moebel",
+         "spacing":0,
+         "tilecount":1536,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":48,
+         "firstgid":13337,
+         "image":"tilesets\/06_deko.png",
+         "imageheight":1024,
+         "imagewidth":1536,
+         "margin":0,
+         "name":"06_deko",
+         "spacing":0,
+         "tilecount":1536,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":48,
+         "firstgid":14873,
+         "image":"tilesets\/07_tiere.png",
+         "imageheight":512,
+         "imagewidth":1536,
+         "margin":0,
+         "name":"07_tiere",
+         "spacing":0,
+         "tilecount":768,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":6,
+         "firstgid":15641,
+         "image":"tilesets\/Special_Zones_Eingaenge.png",
+         "imageheight":64,
+         "imagewidth":192,
+         "margin":0,
+         "name":"Special_Zones_Eingaenge",
+         "spacing":0,
+         "tilecount":12,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"string",
+                         "value":"von_ergeschoss"
+                        }]
+                }, 
+                {
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"string",
+                         "value":"von_3OG"
+                        }]
+                }, 
+                {
+                 "id":2,
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"string",
+                         "value":"von_turmdach"
+                        }]
+                }, 
+                {
+                 "id":6,
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"string",
+                         "value":"von_2OG"
+                        }]
+                }, 
+                {
+                 "id":7,
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"string",
+                         "value":"von_4OG"
+                        }]
+                }],
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":15653,
+         "image":"tilesets\/Klassenzimmer_Bibliothek_32x32.png",
+         "imageheight":1088,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Klassenzimmer_Bibliothek_32x32",
+         "spacing":0,
+         "tilecount":544,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":32,
+         "firstgid":16197,
+         "image":"tilesets\/spezialanfertigungen.png",
+         "imageheight":1024,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"spezialanfertigungen",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tilewidth":32
+        },
+    
+        {
+         "columns":16,
+         "firstgid":17221,
+         "image":"tilesets\/Spezial\/Kueche.png",
+         "imageheight":1568,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Kueche",
+         "spacing":0,
+         "tilecount":784,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":2,
+         "firstgid":18005,
+         "image":"tilesets\/pfeile.png",
+         "imageheight":32,
+         "imagewidth":64,
+         "margin":0,
+         "name":"pfeile",
+         "spacing":0,
+         "tilecount":2,
+         "tileheight":32,
+         "tilewidth":32
+        }],
+ "tilewidth":32,
+ "type":"map",
+ "version":"1.8",
+ "width":6
+}
