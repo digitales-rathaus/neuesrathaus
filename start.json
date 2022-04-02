@@ -573,7 +573,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Fahrstuhl_Start.json"
+                 "value":"Fahrstuhl_Start.json#von_start"
                 }],
          "type":"tilelayer",
          "visible":true,
