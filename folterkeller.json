@@ -58,7 +58,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"start.json#folterkeller"
+                 "value":"katakomben.json#folterkeller"
                 }],
          "type":"tilelayer",
          "visible":true,
