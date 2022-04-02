@@ -1768,15 +1768,15 @@
          "tilewidth":32
         }, 
         {
-         "columns":8,
+         "columns":48,
          "firstgid":22093,
          "image":"tilesets\/Schilder.png",
-         "imageheight":256,
-         "imagewidth":256,
+         "imageheight":1536,
+         "imagewidth":1536,
          "margin":0,
          "name":"Schilder",
          "spacing":0,
-         "tilecount":64,
+         "tilecount":2304,
          "tileheight":32,
          "tilewidth":32
         }],
