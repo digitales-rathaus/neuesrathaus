@@ -94,6 +94,12 @@
          "id":22,
          "name":"ausgang_naturkundemuseum",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/play.world.maschinenraum.tk\/_\/global\/world.naturkunde.museum\/Naturkundemuseum_Vorgarten.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":80,
