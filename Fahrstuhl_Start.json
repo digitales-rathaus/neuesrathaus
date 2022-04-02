@@ -38,13 +38,13 @@
             0, 0, 0, 0, 0, 0],
          "height":8,
          "id":11,
-         "name":"ausgang_2OG",
+         "name":"ausgang_start",
          "opacity":1,
          "properties":[
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"start.json#Fahrstuhl_start"
+                 "value":"start.json#Fahrstuhl_Start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -69,7 +69,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Fahrstuhl_start.json"
+                 "value":"Fahrstuhl_Katakomben.json"
                 }],
          "type":"tilelayer",
          "visible":true,

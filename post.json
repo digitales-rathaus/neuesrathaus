@@ -74,7 +74,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"start.json"
+                 "value":"start.json#post"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -506,7 +506,7 @@
         {
          "columns":4,
          "firstgid":18005,
-         "image":"tilesets\/Eulen.png",
+         "image":"tilesets\/08_weitere Tiere.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
