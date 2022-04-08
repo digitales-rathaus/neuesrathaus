@@ -127,6 +127,28 @@
          "y":0
         }, 
         {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21686, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":5,
+         "id":13,
+         "name":"osterei",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/profwaschbaer.wordpress.com\/2022\/04\/08\/t-2\/"
+                }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":20,
+         "x":0,
+         "y":0
+        }, 
+        {
          "data":[0, 18070, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 18102, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -164,7 +186,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":13,
+ "nextlayerid":14,
  "nextobjectid":6,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -348,6 +370,19 @@
          "name":"victorian-windows-doors",
          "spacing":0,
          "tilecount":5120,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":8,
+         "firstgid":21669,
+         "image":"tilesets\/osterdeko.png",
+         "imageheight":256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"osterdeko",
+         "spacing":0,
+         "tilecount":64,
          "tileheight":32,
          "tilewidth":32
         }],

@@ -181,6 +181,31 @@
         }, 
         {
          "data":[0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 18011, 0,
+            0, 0, 0, 0, 0, 0],
+         "height":8,
+         "id":16,
+         "name":"osterei",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/profwaschbaer.wordpress.com\/2022\/04\/08\/r\/"
+                }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":6,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0,
             0, 0, 14366, 14367, 0, 0,
             0, 18005, 14414, 14415, 18006, 0,
             0, 0, 13553, 13554, 0, 0,
@@ -237,7 +262,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":16,
+ "nextlayerid":17,
  "nextobjectid":7,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -490,6 +515,19 @@
          "name":"pfeile",
          "spacing":0,
          "tilecount":2,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":8,
+         "firstgid":18007,
+         "image":"tilesets\/osterdeko.png",
+         "imageheight":256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"osterdeko",
+         "spacing":0,
+         "tilecount":64,
          "tileheight":32,
          "tilewidth":32
         }],
