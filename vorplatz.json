@@ -734,6 +734,32 @@
          "tilecount":1092,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":26,
+         "firstgid":43621,
+         "image":"tilesets\/Charaktere\/Aloy.png",
+         "imageheight":1344,
+         "imagewidth":832,
+         "margin":0,
+         "name":"Aloy",
+         "spacing":0,
+         "tilecount":1092,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":26,
+         "firstgid":44713,
+         "image":"tilesets\/Charaktere\/Lia.png",
+         "imageheight":1344,
+         "imagewidth":832,
+         "margin":0,
+         "name":"Lia",
+         "spacing":0,
+         "tilecount":1092,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
