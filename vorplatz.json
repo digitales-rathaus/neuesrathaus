@@ -201,7 +201,7 @@
                  "value":"https:\/\/www.latlmes.com\/breaking\/leipziger-brgermeister-von-taube-attackiert-1"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":80,
          "x":0,
          "y":0
@@ -719,6 +719,45 @@
          "name":"osterdeko",
          "spacing":0,
          "tilecount":64,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":26,
+         "firstgid":42529,
+         "image":"tilesets\/Charaktere\/Piratin.png",
+         "imageheight":1344,
+         "imagewidth":832,
+         "margin":0,
+         "name":"Piratin",
+         "spacing":0,
+         "tilecount":1092,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":26,
+         "firstgid":43621,
+         "image":"tilesets\/Charaktere\/Aloy.png",
+         "imageheight":1344,
+         "imagewidth":832,
+         "margin":0,
+         "name":"Aloy",
+         "spacing":0,
+         "tilecount":1092,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":26,
+         "firstgid":44713,
+         "image":"tilesets\/Charaktere\/Lia.png",
+         "imageheight":1344,
+         "imagewidth":832,
+         "margin":0,
+         "name":"Lia",
+         "spacing":0,
+         "tilecount":1092,
          "tileheight":32,
          "tilewidth":32
         }],

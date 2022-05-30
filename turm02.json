@@ -261,7 +261,7 @@
                  "value":"https:\/\/profwaschbaer.wordpress.com\/2022\/04\/08\/p\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":15,
          "x":0,
          "y":0
