@@ -357,6 +357,15 @@
                         }]
                 }, 
                 {
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"string",
+                         "value":"geheimgang"
+                        }]
+                }, 
+                {
                  "id":6,
                  "properties":[
                         {
