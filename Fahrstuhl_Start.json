@@ -63,13 +63,13 @@
             0, 0, 0, 0, 0, 0],
          "height":8,
          "id":13,
-         "name":"runter_start",
+         "name":"auisgang_runter_katakomben",
          "opacity":1,
          "properties":[
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Fahrstuhl_Katakomben.json"
+                 "value":"katakomben.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -88,7 +88,7 @@
             0, 0, 0, 0, 0, 0],
          "height":8,
          "id":14,
-         "name":"hoch_2OG",
+         "name":"ausgang_hoch_2OG",
          "opacity":1,
          "properties":[
                 {
