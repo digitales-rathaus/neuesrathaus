@@ -12,7 +12,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/github.com\/digitales-rathaus\/neuesrathaus\/blob\/main\/audio\/ton_fuchs.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -26,6 +26,12 @@
          "id":24,
          "name":"ton-schwein",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"https:\/\/github.com\/digitales-rathaus\/neuesrathaus\/blob\/main\/audio\/ton_schwein.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
@@ -38,6 +44,12 @@
          "id":23,
          "name":"ton_schaf",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"https:\/\/github.com\/digitales-rathaus\/neuesrathaus\/blob\/main\/audio\/ton_schaf.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
@@ -50,6 +62,12 @@
          "id":25,
          "name":"ton_tiger",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"https:\/\/github.com\/digitales-rathaus\/neuesrathaus\/blob\/main\/audio\/ton_tiger.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
@@ -62,6 +80,12 @@
          "id":20,
          "name":"ton_huhn",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"https:\/\/github.com\/digitales-rathaus\/neuesrathaus\/blob\/main\/audio\/ton_huhn.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
@@ -74,6 +98,12 @@
          "id":19,
          "name":"ton_baer",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"https:\/\/github.com\/digitales-rathaus\/neuesrathaus\/blob\/main\/audio\/ton_baer.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
@@ -86,6 +116,12 @@
          "id":22,
          "name":"ton_pferd",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"https:\/\/github.com\/digitales-rathaus\/neuesrathaus\/blob\/main\/audio\/ton_pferd#.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
@@ -98,6 +134,12 @@
          "id":21,
          "name":"ton_maus",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"https:\/\/github.com\/digitales-rathaus\/neuesrathaus\/blob\/main\/audio\/ton_maus.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
