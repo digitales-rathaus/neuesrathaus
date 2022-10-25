@@ -404,7 +404,7 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":109,
+                 "width":132,
                  "x":1481,
                  "y":895.5
                 }],
@@ -429,7 +429,7 @@
                      "color":"#484848",
                      "fontfamily":"MS Shell Dlg 2",
                      "pixelsize":19,
-                     "text":"Ho Chi Min Stadt",
+                     "text":"Ho Chi Minh Stadt",
                      "wrap":true
                     },
                  "type":"",
