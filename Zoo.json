@@ -564,7 +564,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"vorplatz.json"
                 }],
          "type":"tilelayer",
          "visible":true,
