@@ -184,7 +184,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26983, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 24774, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -276,7 +276,7 @@
  "nextobjectid":6,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.8.4",
+ "tiledversion":"1.9.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -530,47 +530,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":17,
-         "firstgid":17633,
-         "image":"tilesets\/tilesets_deviant_milkian_1.png",
-         "imageheight":544,
-         "imagewidth":544,
-         "margin":0,
-         "name":"tilesets_deviant_milkian_1",
-         "spacing":0,
-         "tilecount":289,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":16,
-         "firstgid":17922,
-         "image":"tilesets\/tilesets_interior_para_rmvx_ace___editados_by_milkian_daiujx6.png",
-         "imageheight":512,
-         "imagewidth":512,
-         "margin":0,
-         "name":"tilesets_interior_para_rmvx_ace___editados_by_milkian_daiujx6",
-         "spacing":0,
-         "tilecount":256,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":24,
-         "firstgid":18178,
-         "image":"tilesets\/weihnachtsdeko.png",
-         "imageheight":768,
-         "imagewidth":768,
-         "margin":0,
-         "name":"weihnachtsdeko",
-         "spacing":0,
-         "tilecount":576,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":5,
-         "firstgid":18754,
+         "firstgid":17633,
          "image":"tilesets\/Armor.png",
          "imageheight":32,
          "imagewidth":160,
@@ -580,11 +541,10 @@
          "tilecount":5,
          "tileheight":32,
          "tilewidth":32
-        },
-    
+        }, 
         {
          "columns":24,
-         "firstgid":18759,
+         "firstgid":17638,
          "image":"tilesets\/baeume.png",
          "imageheight":768,
          "imagewidth":768,
@@ -597,7 +557,7 @@
         }, 
         {
          "columns":32,
-         "firstgid":19335,
+         "firstgid":18214,
          "image":"tilesets\/base_out_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
@@ -610,7 +570,7 @@
         }, 
         {
          "columns":24,
-         "firstgid":20359,
+         "firstgid":19238,
          "image":"tilesets\/boden.png",
          "imageheight":1987,
          "imagewidth":768,
@@ -620,10 +580,11 @@
          "tilecount":1488,
          "tileheight":32,
          "tilewidth":32
-        }, 
+        },
+    
         {
          "columns":24,
-         "firstgid":21847,
+         "firstgid":20726,
          "image":"tilesets\/bodentiles.png",
          "imageheight":1987,
          "imagewidth":768,
@@ -636,7 +597,7 @@
         }, 
         {
          "columns":11,
-         "firstgid":23335,
+         "firstgid":22214,
          "image":"tilesets\/bskonf.png",
          "imageheight":512,
          "imagewidth":352,
@@ -649,8 +610,8 @@
         }, 
         {
          "columns":16,
-         "firstgid":23511,
-         "image":"tilesets\/bueromoebel.png",
+         "firstgid":22390,
+         "image":"tilesets\/cp unsicher\/bueromoebel.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -662,8 +623,8 @@
         }, 
         {
          "columns":16,
-         "firstgid":23767,
-         "image":"tilesets\/bueromoebel02.png",
+         "firstgid":22646,
+         "image":"tilesets\/cp unsicher\/bueromoebel02.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -675,7 +636,7 @@
         }, 
         {
          "columns":16,
-         "firstgid":24023,
+         "firstgid":22902,
          "image":"tilesets\/Castle2.png",
          "imageheight":512,
          "imagewidth":512,
@@ -688,7 +649,7 @@
         }, 
         {
          "columns":8,
-         "firstgid":24279,
+         "firstgid":23158,
          "image":"tilesets\/fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
@@ -701,7 +662,7 @@
         }, 
         {
          "columns":8,
-         "firstgid":25343,
+         "firstgid":24222,
          "image":"tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
@@ -713,34 +674,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":16,
-         "firstgid":25407,
-         "image":"tilesets\/inneneinrichtung.png",
-         "imageheight":512,
-         "imagewidth":512,
-         "margin":0,
-         "name":"inneneinrichtung",
-         "spacing":0,
-         "tilecount":256,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":16,
-         "firstgid":25663,
-         "image":"tilesets\/interior.png",
-         "imageheight":512,
-         "imagewidth":512,
-         "margin":0,
-         "name":"interior",
-         "spacing":0,
-         "tilecount":256,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":9,
-         "firstgid":25919,
+         "firstgid":24286,
          "image":"tilesets\/lpccatratdog(1).png",
          "imageheight":256,
          "imagewidth":288,
@@ -753,7 +688,7 @@
         }, 
         {
          "columns":2,
-         "firstgid":25991,
+         "firstgid":24358,
          "image":"tilesets\/lpc-doors-animated-2.png",
          "imageheight":576,
          "imagewidth":64,
@@ -766,7 +701,7 @@
         }, 
         {
          "columns":9,
-         "firstgid":26027,
+         "firstgid":24394,
          "image":"tilesets\/mapUtilities.png",
          "imageheight":34,
          "imagewidth":306,
@@ -778,21 +713,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":24,
-         "firstgid":26036,
-         "image":"tilesets\/neuesrathaus-01.png",
-         "imageheight":768,
-         "imagewidth":768,
-         "margin":0,
-         "name":"neuesrathaus-01",
-         "spacing":0,
-         "tilecount":576,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":3,
-         "firstgid":26612,
+         "firstgid":24403,
          "image":"tilesets\/pigeon-NESW.png",
          "imageheight":128,
          "imagewidth":96,
@@ -805,7 +727,7 @@
         }, 
         {
          "columns":2,
-         "firstgid":26624,
+         "firstgid":24415,
          "image":"tilesets\/pixil-frame-0.png",
          "imageheight":64,
          "imagewidth":64,
@@ -818,7 +740,7 @@
         }, 
         {
          "columns":16,
-         "firstgid":26628,
+         "firstgid":24419,
          "image":"tilesets\/SF_Inside_B.png",
          "imageheight":512,
          "imagewidth":512,
@@ -831,7 +753,7 @@
         }, 
         {
          "columns":8,
-         "firstgid":26884,
+         "firstgid":24675,
          "image":"tilesets\/sitzgelegenheiten.png",
          "imageheight":352,
          "imagewidth":256,
@@ -841,11 +763,10 @@
          "tilecount":88,
          "tileheight":32,
          "tilewidth":32
-        },
-    
+        }, 
         {
          "columns":8,
-         "firstgid":26972,
+         "firstgid":24763,
          "image":"tilesets\/osterdeko.png",
          "imageheight":256,
          "imagewidth":256,
@@ -858,6 +779,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.8",
+ "version":"1.9",
  "width":20
 }

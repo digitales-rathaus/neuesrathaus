@@ -1298,6 +1298,7 @@
          "name":"Addis Abeba",
          "objects":[
                 {
+                 "class":"",
                  "height":23,
                  "id":10,
                  "name":"",
@@ -1310,7 +1311,6 @@
                      "text":"Addis Abeba",
                      "wrap":true
                     },
-                 "type":"",
                  "visible":true,
                  "width":109,
                  "x":1157,
@@ -1328,6 +1328,7 @@
          "name":"Kyiv",
          "objects":[
                 {
+                 "class":"",
                  "height":23,
                  "id":13,
                  "name":"",
@@ -1340,7 +1341,6 @@
                      "text":"Kyiv (Kiew)",
                      "wrap":true
                     },
-                 "type":"",
                  "visible":true,
                  "width":109,
                  "x":1444,
@@ -1358,6 +1358,7 @@
          "name":"Brno",
          "objects":[
                 {
+                 "class":"",
                  "height":23,
                  "id":14,
                  "name":"",
@@ -1370,7 +1371,6 @@
                      "text":"Brno (Br\u00fcnn)",
                      "wrap":true
                     },
-                 "type":"",
                  "visible":true,
                  "width":132,
                  "x":1481,
@@ -1388,6 +1388,7 @@
          "name":"Ho Chi Minh Stadt",
          "objects":[
                 {
+                 "class":"",
                  "height":23,
                  "id":12,
                  "name":"",
@@ -1400,7 +1401,6 @@
                      "text":"Ho Chi Minh Stadt",
                      "wrap":true
                     },
-                 "type":"",
                  "visible":true,
                  "width":157,
                  "x":1039,
@@ -1416,7 +1416,7 @@
  "nextobjectid":15,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.8.4",
+ "tiledversion":"1.9.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -1923,6 +1923,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.8",
+ "version":"1.9",
  "width":80
 }
