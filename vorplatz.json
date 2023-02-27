@@ -84,7 +84,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/rathausclub-leipzig.de\/2022\/10\/27\/goerdeler-denkmal\/"
+                 "value":"http:\/\/rathausclub.leipziger-kinderbuero.de\/goerdeler-denkmal\/"
                 }],
          "type":"tilelayer",
          "visible":true,
