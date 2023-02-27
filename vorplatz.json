@@ -156,7 +156,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/rathausclub.leipziger-kinderbuero.de\/ho-chi-minh-stadt\/"
+                 "value":"http:\/\/rathausclub.leipziger-kinderbuero.de\/addis-abeba\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -192,7 +192,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/rathausclub-leipzig.de\/2022\/10\/25\/kyiv-kiew\/"
+                 "value":"http:\/\/rathausclub.leipziger-kinderbuero.de\/kiew\/"
                 }],
          "type":"tilelayer",
          "visible":true,
