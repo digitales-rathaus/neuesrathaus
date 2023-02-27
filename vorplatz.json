@@ -102,7 +102,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/rathausclub-leipzig.de\/2022\/10\/26\/die-schnecke-auf-der-tuerklinke\/"
+                 "value":"http:\/\/rathausclub.leipziger-kinderbuero.de\/goerdeler-denkmal\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -120,7 +120,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"leipziger-kinderbuero.de"
+                 "value":"http:\/\/rathausclub.leipziger-kinderbuero.de\/goerdeler-denkmal\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -138,7 +138,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.augenblicklicht.com"
+                 "value":"http:\/\/rathausclub.leipziger-kinderbuero.de\/goerdeler-denkmal\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -156,7 +156,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"zerr.augenblicklicht-"
+                 "value":"http:\/\/rathausclub.leipziger-kinderbuero.de\/goerdeler-denkmal\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -174,7 +174,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/rathausclub.leipziger-kinderbuero.de\/bruenn\/"
+                 "value":"http:\/\/rathausclub.leipziger-kinderbuero.de\/goerdeler-denkmal\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -192,7 +192,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/rathausclub.leipziger-kinderbuero.de\/kiew\/"
+                 "value":"http:\/\/rathausclub.leipziger-kinderbuero.de\/goerdeler-denkmal\/"
                 }],
          "type":"tilelayer",
          "visible":true,
