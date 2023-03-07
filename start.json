@@ -27,7 +27,7 @@
          "name":"blockiert",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -114,7 +114,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"katakomben.json#start"
+                 "value":"katakomben.json#eg"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -150,7 +150,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"2OG.json#start"
+                 "value":"2OG.json#eg"
                 }],
          "type":"tilelayer",
          "visible":true,
