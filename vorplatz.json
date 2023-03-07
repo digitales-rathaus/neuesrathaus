@@ -102,7 +102,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/rathausclub.leipziger-kinderbuero.de\/goerdeler-denkmal\/"
+                 "value":"https:\/\/rathausclub.leipziger-kinderbuero.de\/schnecke\/"
                 }],
          "type":"tilelayer",
          "visible":true,
