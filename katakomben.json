@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"start.json#katakomben"
+                 "value":"start.json#eingang_katakomben"
                 }],
          "type":"tilelayer",
          "visible":true,

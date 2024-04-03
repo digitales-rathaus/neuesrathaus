@@ -66,7 +66,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"start.json#vorplatz"
+                 "value":"start.json#eingang_vorplatz"
                 }],
          "type":"tilelayer",
          "visible":true,

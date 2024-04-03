@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"start.json#toiletten01"
+                 "value":"start.json#eingang_toilette01"
                 }],
          "type":"tilelayer",
          "visible":true,
