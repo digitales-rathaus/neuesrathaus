@@ -5,24 +5,24 @@
         {
          "draworder":"topdown",
          "id":20,
-         "name":"partymusik",
+         "name":"audio",
          "objects":[
                 {
-                 "height":214.066138798323,
+                 "height":443.782021425245,
                  "id":8,
-                 "name":"partymusik",
+                 "name":"turm02",
                  "properties":[
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/audio\/turm01\/party01.mp3"
+                         "value":"\/audio\/soundscapes\/turm02.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":221.891010712622,
-                 "x":131.346064275734,
-                 "y":131.904983698184
+                 "width":442.664182580345,
+                 "x":15.649743828598,
+                 "y":21.2389380530974
                 }],
          "offsetx":2.23567768979973,
          "offsety":1.11783884489985,

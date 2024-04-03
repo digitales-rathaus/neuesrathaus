@@ -103,6 +103,11 @@
                  "name":"katakomben",
                  "properties":[
                         {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
                          "value":"audio\/soundscapes\/katakomben.mp3"

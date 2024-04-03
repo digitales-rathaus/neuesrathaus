@@ -21,6 +21,45 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
+         "id":14,
+         "name":"audio",
+         "objects":[
+                {
+                 "height":0,
+                 "id":6,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":484.35691318328,
+                 "y":-126.377559654764
+                }, 
+                {
+                 "height":154.03960060924,
+                 "id":7,
+                 "name":"toilette",
+                 "properties":[
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"audio\/soundscapes\/toilette.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":653.041123709596,
+                 "x":-8.13589439837536,
+                 "y":16.8141817566424
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1033, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1033, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":5,
          "id":11,
@@ -150,8 +189,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":14,
- "nextobjectid":6,
+ "nextlayerid":15,
+ "nextobjectid":8,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
