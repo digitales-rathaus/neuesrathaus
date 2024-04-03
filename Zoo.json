@@ -210,7 +210,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/audio\/zoo\/ton_baer.mp3"
+                         "value":"audio\/zoo\/ton_baer.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
