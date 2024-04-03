@@ -4,26 +4,28 @@
  "layers":[
         {
          "draworder":"topdown",
-         "id":19,
+         "id":20,
          "name":"partymusik",
          "objects":[
                 {
-                 "height":455.519329296693,
-                 "id":7,
+                 "height":214.066138798323,
+                 "id":8,
                  "name":"partymusik",
                  "properties":[
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"party01.mp3"
+                         "value":"\/audio\/turm01\/party01.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
-                 "visible":false,
-                 "width":453.283651606893,
-                 "x":10.6194690265487,
-                 "y":12.8551467163484
+                 "visible":true,
+                 "width":221.891010712622,
+                 "x":131.346064275734,
+                 "y":131.904983698184
                 }],
+         "offsetx":2.23567768979973,
+         "offsety":1.11783884489985,
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -202,8 +204,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":20,
- "nextobjectid":8,
+ "nextlayerid":21,
+ "nextobjectid":11,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
