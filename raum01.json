@@ -33,7 +33,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"audio\/soundscapes\/raum_bildun.mp3"
+                         "value":"audio\/soundscapes\/raum_bildung.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
