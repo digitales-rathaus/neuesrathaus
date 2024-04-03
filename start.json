@@ -380,7 +380,7 @@
          "name":"audio",
          "objects":[
                 {
-                 "height":388,
+                 "height":851,
                  "id":6,
                  "name":"wandelhalle",
                  "properties":[
@@ -392,9 +392,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":1448,
-                 "x":990.666666666667,
-                 "y":2396
+                 "width":2794,
+                 "x":-2.66666666666663,
+                 "y":1940
                 }],
          "opacity":1,
          "type":"objectgroup",
