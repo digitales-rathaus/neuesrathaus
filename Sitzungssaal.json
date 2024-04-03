@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"2OG.json#Sitzungssaal"
+                 "value":"2OG.json#eingang_sitzungssaal"
                 }],
          "type":"tilelayer",
          "visible":true,

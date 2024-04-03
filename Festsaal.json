@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"2OG.json#Festsaal"
+                 "value":"2OG.json#eingang_festsaal"
                 }],
          "type":"tilelayer",
          "visible":true,

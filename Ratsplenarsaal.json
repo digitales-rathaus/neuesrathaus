@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"2OG.json#Ratsplenarsaal"
+                 "value":"2OG.json#eingang_rathsplenarsaal"
                 }],
          "type":"tilelayer",
          "visible":true,
