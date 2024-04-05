@@ -58,7 +58,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"start.json#raum02"
+                 "value":"start.json#raum_kultur"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -81,6 +81,34 @@
          "type":"tilelayer",
          "visible":true,
          "width":27,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":19,
+         "name":"silent",
+         "objects":[
+                {
+                 "height":813.333333333333,
+                 "id":7,
+                 "name":"silent",
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":952,
+                 "x":-41.3333333333333,
+                 "y":-38.6666666666667
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -214,8 +242,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":19,
- "nextobjectid":7,
+ "nextlayerid":20,
+ "nextobjectid":8,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",

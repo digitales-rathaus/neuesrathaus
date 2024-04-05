@@ -58,7 +58,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"start.json#raum02"
+                 "value":"start.json#eingang_umwelt"
                 }],
          "type":"tilelayer",
          "visible":true,

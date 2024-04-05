@@ -58,7 +58,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"start.json#raum01"
+                 "value":"start.json#eingang_bildung"
                 }],
          "type":"tilelayer",
          "visible":true,
