@@ -39,34 +39,6 @@
          "y":0
         }, 
         {
-         "draworder":"topdown",
-         "id":16,
-         "name":"audio",
-         "objects":[
-                {
-                 "height":607,
-                 "id":6,
-                 "name":"obm_buero",
-                 "properties":[
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"audio\/soundscapes\/obm_buero.mp3"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":388,
-                 "x":-31,
-                 "y":-12
-                }],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
          "data":[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":18,
          "id":8,
@@ -171,6 +143,34 @@
                  "width":411,
                  "x":-41,
                  "y":-22
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":16,
+         "name":"audio",
+         "objects":[
+                {
+                 "height":607,
+                 "id":6,
+                 "name":"obm_buero",
+                 "properties":[
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"audio\/soundscapes\/obm_buero.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":388,
+                 "x":-31,
+                 "y":-12
                 }],
          "opacity":1,
          "type":"objectgroup",
