@@ -476,7 +476,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"toiletten01.json"
+                 "value":"toiletten04.json"
                 }],
          "type":"tilelayer",
          "visible":true,
